@@ -1,8 +1,10 @@
 # WDI-Fundamentals
 
-This repo is for the WDI-fundamentals Memory Game project before starting General Assembly WDI-Remote
+This repo is for the WDI-fundamentals Memory Game project before starting General Assembly WDI-Remote.
 
-Final Project
+Created By: Eric Stermer
+
+# Final Project
 
 Each unit assignment will build towards your final project, where you'll code a web browser based memory game. You'll use HTML, CSS and JavaScript to build the game, unit by unit!
 
